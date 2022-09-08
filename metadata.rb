@@ -1,0 +1,11 @@
+name 'awsome-chef'
+maintainer 'Thomas Heinen'
+maintainer_email 'theinen@tecracer.de'
+issues_url 'https://github.com/tecracer-theinen/awsome-chef'
+source_url 'https://github.com/tecracer-theinen/awsome-chef'
+license 'Apache-2.0'
+description 'Chef demo cookbook on how to use AWS'
+version '0.1.0'
+chef_version '>= 18.0.0'
+
+depends 'aws-psp', '>= 0.1.0'

@@ -1,0 +1,16 @@
+{
+  "editor.renderFinalNewline": true,
+  "editor.renderWhitespace":"all",
+  "editor.trimAutoWhitespace": true,
+  "files.exclude": {
+    "Gemfile.lock": true,
+    "pkg": true,
+
+    ".devcontainer/": true,
+    ".vscode/": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.scrollback": 100000,
+  "update.mode": "none"
+}
